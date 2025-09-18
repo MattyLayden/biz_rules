@@ -14,11 +14,10 @@ cp .env.example .env
 and ensure you have created an API key from their website, setting POKEMON_API_KEY={your api key here}
 
 
-Please also find the objects at the endpoint
+Please also find the objects at the endpoint:
 
-<p align="center">
-# customer-api/objects/
-</p>
+# **customer-api/objects/**
+
 
 
 
