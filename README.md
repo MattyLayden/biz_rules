@@ -1,5 +1,25 @@
 # README
+######################################################
 
+**Pokemon API - https://pokemontcg.io/**
+
+This project requires a `.env` file in the root directory.
+Please copy the env.example file with 
+
+```
+cp .env.example .env
+
+```
+
+and ensure you have created an API key from their website, setting POKEMON_API_KEY={your api key here}
+
+
+Please also find the objects at the endpoint
+
+**customer-api/objects/**
+
+
+######################################################
 ## Setup
 
 For development environment setup, project commands, and usage instructions, please see [HELP.md](HELP.md).
