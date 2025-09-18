@@ -3,6 +3,11 @@ import requests
 from dotenv import load_dotenv
 from datetime import datetime
 
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "integrations.settings")
+
+import django
+django.setup()  
+
 from core.models import (Service, Object, Field, IntegerForm, FloatForm, CharacterForm, TextForm, BooleanForm, DateForm, URLForm)
 
 load_dotenv()  
