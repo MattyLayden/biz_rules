@@ -16,7 +16,7 @@ and ensure you have created an API key from their website, setting POKEMON_API_K
 
 Please also find the objects at the endpoint:
 
- **customer-api/objects/**
+------>       **customer-api/objects/**
 
 
 
