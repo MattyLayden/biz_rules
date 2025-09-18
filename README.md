@@ -1,5 +1,5 @@
 # README
-######################################################
+
 
 **Pokemon API - https://pokemontcg.io/**
 
@@ -16,13 +16,12 @@ and ensure you have created an API key from their website, setting POKEMON_API_K
 
 Please also find the objects at the endpoint:
 
------->       **customer-api/objects/**
+     **customer-api/objects/**
 
 
 
 
 
-######################################################
 ## Setup
 
 For development environment setup, project commands, and usage instructions, please see [HELP.md](HELP.md).
